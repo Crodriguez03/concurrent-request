@@ -1,0 +1,3 @@
+spring.application.name: concurrent-request
+server.tomcat.threads.max: 10
+app.healthcheck.path: healthcheck
